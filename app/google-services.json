@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305970358299",
+    "firebase_url": "https://alkole-1e930-default-rtdb.firebaseio.com",
+    "project_id": "alkole-1e930",
+    "storage_bucket": "alkole-1e930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305970358299:android:ced61f97b4e1a22b6030be",
+        "android_client_info": {
+          "package_name": "com.example.alkole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305970358299-dkg19b0r43btodljgkeidt4bumemvv6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wBiIykTADSYW0p4u04_l0xZoDxB113g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305970358299-dkg19b0r43btodljgkeidt4bumemvv6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
